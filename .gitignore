@@ -1,0 +1,10 @@
+# Fetched price data is generated on each user's machine and is not committed
+data/
+__pycache__/
+.venv/
+# Personal API keys (for example EIA_API_KEY); never commit these
+.env
+*.tmp
+
+# Research tables scraped from third-party sites; keep local, do not publish
+plan/*.csv
