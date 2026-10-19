@@ -72,6 +72,10 @@ Crude prices come from the U.S. Energy Information Administration (EIA), which i
 
 The file is git-ignored, so the key is not committed. Keep it private: anyone with the key can use your EIA quota.
 
+## License
+
+MIT. See [LICENSE](LICENSE). The license covers this project's code only. It does not give rights to the third-party data the app fetches.
+
 ## Tests
 
 ```
